@@ -26,7 +26,7 @@ keymap = [
         ["Kp7", "Kp8", "Kp9", "KpPlus"],
         ["Kp4", "Kp5", "Kp6", "_"],
         ["Kp1", "Kp2", "Kp3", "KpEnter"],
-        ["Kp0", "Kp1", "KpDot", "Kp2"],
+        ["_", "_", "KpDot", "Kp0"],
     ],
     [
         ["NumLock", "_", "_", "Bootloader"], #bootloader currently does not work
