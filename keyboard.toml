@@ -4,7 +4,7 @@ name = "HAVIT NUMPAD"
 product_name = "HAVIT NUMPAD"
 vendor_id = 0x4c4b
 product_id = 0x4643
-manufacturer = "grbt"
+manufacturer = "GRBT"
 chip = "rp2040"
 
 
