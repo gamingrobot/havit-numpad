@@ -26,7 +26,7 @@ keymap = [
         ["Kp7", "Kp8", "Kp9", "KpPlus"],
         ["Kp4", "Kp5", "Kp6", "_"],
         ["Kp1", "Kp2", "Kp3", "KpEnter"],
-        ["_", "_", "KpDot", "Kp0"],
+        ["Kp0", "_", "KpDot", "_"],
     ],
     [
         ["NumLock", "_", "_", "Bootloader"], #bootloader currently does not work
@@ -53,3 +53,5 @@ keymap = [
 [storage]
 # Storage feature is enabled by default
 # enabled = false
+# Set `clear_storage` to true to clear all the stored info when the keyboard boots
+clear_storage = true
