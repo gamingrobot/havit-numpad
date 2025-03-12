@@ -29,7 +29,7 @@ keymap = [
         ["Kp0", "_", "KpDot", "_"],
     ],
     [
-        ["NumLock", "_", "_", ""], #Bootloader currently does not work
+        ["NumLock", "_", "_", "_"], #Bootloader currently does not work
         ["_", "_", "_", "_"],
         ["_", "_", "_", "_"],
         ["_", "_", "_", "_"],
